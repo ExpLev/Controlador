@@ -3,4 +3,5 @@ Controlador para um levitador acústico baseado em Arduino com configuração ad
 Desenvolvido como parte do projeto Experimentos com Levitadores (ExpLev), https://sites.google.com/usp.br/explev
 
 ## Levitador Elementar UNO / Nano
-versão com controles essenciais para experimentos de queda, oscilações amortecidas e oscilações forçadas, disponibilizados em 2023 na página do projeto ExpLev.
+Versão com controles essenciais para experimentos disponibilizados em 2023 na página do projeto ExpLev.
+Para uso com o circuito abaixo (instruções de montagem na página do projeto ExpLev, https://sites.google.com/usp.br/explev)
